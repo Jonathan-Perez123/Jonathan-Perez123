@@ -1,4 +1,5 @@
 👋 Hola, soy Jonathan!
+
 🌐 Desarrollador Web Apasionado y Analista de Datos
 
 Me especializo en crear soluciones innovadoras y eficientes, utilizando una amplia gama de tecnologías y lenguajes de programación. Aquí hay un vistazo de mis habilidades y herramientas que manejo:
